@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-##Requirements
+## Requirements
  - Node version 10.20 or greater. 
  - On platforms other than Windows and Linux x64, you must also install the MQ client package
 
@@ -28,7 +28,8 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see PutMessage page
+- Open [http://localhost:3000](http://localhost:3000) with your browser to see PutMessage page
+- Add/Edit files in data/metadata folder. Files in this folder will be available to load in the `Reset` button.
 
 
 ## Purpose
